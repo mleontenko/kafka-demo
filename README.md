@@ -1,6 +1,6 @@
 # kafka-demo
 
-1. Download Kafka: wget wget https://archive.apache.org/dist/kafka/2.8.0/kafka_2.12-2.8.0.tgz
+1. Download Kafka: wget https://archive.apache.org/dist/kafka/2.8.0/kafka_2.12-2.8.0.tgz
 2. Extract Kafka: tar -xzf kafka_2.12-2.8.0.tgz
 3. MySQL: create database tolldata;
 4. MySQL: 
